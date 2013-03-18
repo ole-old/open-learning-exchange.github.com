@@ -10,11 +10,11 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : Open Learning Exchange Development Blog
+tagline: 
 author :
   name : R.J. Steinert
-  email : rj@ole.org
+  email : rj@rjsteinert.org
   github : rjsteinert
   twitter : rjsteinert
   feedburner : feedname
