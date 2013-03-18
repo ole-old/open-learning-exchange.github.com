@@ -1,7 +1,7 @@
 ---
 layout: post
-category : lessons
-tagline: "Supporting tagline 2"
+category : 
+tagline: ""
 tags : [intro, beginner, jekyll, tutorial]
 ---
 # The BeLL LMS, now in 10 Schools 
