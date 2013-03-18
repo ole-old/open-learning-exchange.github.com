@@ -10,17 +10,17 @@ In January, OLE Ghana with the help of OLE International deployed to 8 schools e
 OLE Ghana has a team of 5 coaches that are now using the BeLL LMS on the Raspberry Pi Servers to help coach teachers in the ten schools. 
 (Could use a blurb on exactly what the Coaches are Teaching teachers)
 
-![Raspberry Pi Servers in ten schools in Ghana](school-collage.jpg)
+![Raspberry Pi Servers in ten schools in Ghana](/images/school-collage.jpg)
 
 When one thinks of "Learning Management System" (LMS), one often thinks of tools to help teachers manage a student's learning experience.  
 The OLE Ghana team took this a step further and built a tool to help a Coach manage a Teacher's learning experience.  
 In the BeLL LMS, a teacher uses the Lesson Plan tool to select Resources in the Library and answer questions about how they will approach using those Resources.
 
-![Lesson Plan Tool](lesson-plan-tool.png)
+![Lesson Plan Tool](/images/lesson-plan-tool.png)
 
 Coaches can then review the Lesson Plans that Teachers have submitted and provide feedback on the Teacher's development.  
 
-![Coach Dashboard](coach-dashboard.png)
+![Coach Dashboard](/images/coach-dashboard.png)
 
 
 
@@ -51,9 +51,8 @@ We'll soon be connecting this offline website to the Internet and other Sneakern
 
 Here's an annotated walk through of the system as it stands now.
 
-<a href="https://raw.github.com/open-learning-exchange/OLE-Development-Blog/master/20130317-Ghana-Reads-Progress/one-world-library-app-in-bell-lms.jpg?login=rjsteinert&token=09899817295d8b502f367cfabb04dd55">
-![One World Library App in BeLL OMS](https://raw.github.com/open-learning-exchange/OLE-Development-Blog/master/20130317-Ghana-Reads-Progress/one-world-library-app-in-bell-lms.jpg?login=rjsteinert&token=09899817295d8b502f367cfabb04dd55)
-</a>
+![One World Library App in BeLL OMS](/images/one-world-library-app-in-bell-lms.jpg)
+
 
 
 ## Getting Collections to Devices
@@ -82,7 +81,7 @@ We were however extremely excited to find out about the KA Lite project this pas
 We're currently looking at ways to integrate that with our current system. 
 The OWL App can already generate collections that can be used in KA Lite but we may also want to integrate accounts between the BeLL LMS and KA Lite.
 
-![KA Lite Dashboard for Teachers](ka-lite.png)
+![KA Lite Dashboard for Teachers](/images/ka-lite.png)
 
 
 ## Interactive Exercises for Early Grade Reading
@@ -101,7 +100,7 @@ The OWL Bridge project is just that.
 We've been working closely with the Jake Johnson of Archive.org to build on top of their API a bridge that makes this Sneakernet to Internet connection a reality.  
 We've currently built the bridge so that it can move resources from Archive.org on the Internet to an OWL App instance in the Sneakernet.  
 
-![A screenshot of our OWL Bridge prototype](owl-bridge.png)
+![A screenshot of our OWL Bridge prototype](/images/owl-bridge.png)
 
 Meanwhile, Librarian Christina Manzo has been [curating a excellent collection of content in our BeLL collection on Archive.org](http://archive.org/details/bell).  
 In the coming months we hope to build a bridge that pushes data from an OWL App in the Sneakernet to Archive.org on the Internet.
