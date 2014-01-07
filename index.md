@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Install the BeLL Apps on your local computer the easy way
-tagline: Supporting tagline
+tagline: 
 ---
 
 1. Install CouchDB on your local computer. See [http://couchdb.apache.org](http://couchdb.apache.org)
