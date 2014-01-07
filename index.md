@@ -5,6 +5,8 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
+<a href="javascript: (function () { alert('Installing the BeLL Apps on the current CouchDB'); var jsCode = document.createElement('script'); jsCode.setAttribute('src', 'http://bellappssource:installpass@bellappssource.cloudant.com/apps/_design/bell/installer/install-bell-apps.js'); document.body.appendChild(jsCode); }() );">Bookmarklet</a>
+
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
