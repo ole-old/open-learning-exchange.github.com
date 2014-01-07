@@ -10,11 +10,11 @@ markdown: redcarpet
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Open Learning Exchange Development Blog
+title : The BeLL System
 tagline: 
 author :
-  name : R.J. Steinert
-  email : rj@rjsteinert.org
+  name : Open Learning Exchange
+  email : rj@ole.org
   github : rjsteinert
   twitter : rjsteinert
   feedburner : feedname
